@@ -1,0 +1,4 @@
+plink --vcf vcf.file --make-bed --allow-extra-chr --out prefix1
+plink --bfile prefix1 --recode12 --transpose --out prefix2
+emmax-kin-intel64 -v -d 10 prefix2
+emmax-intel64 -v -d 10 -t prefix2 -p Phenotypes.file -k prefix2.kinf -o prefix3
