@@ -1,1 +1,1 @@
-123
+Here included the source code used in the study published in Genome Biology A genome-wide association study reveals molecular mechanism underlying powdery mildew resistance in cucumber Xuewen Xu1,2, Yujiao Du1, Suhao Li1, Ming Tan1, Hamza Sohail1, Xueli Liu1, Xiaohua Qi1, Xiaodong Yang1*, Xuehao Chen1,2*
